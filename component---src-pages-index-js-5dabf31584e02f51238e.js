@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgithub_file_download=self.webpackChunkgithub_file_download||[]).push([[678],{6558:function(e,t,l){l.r(t),l.d(t,{Head:function(){return r}});var n=l(7294),u=l(8589),a=l(3100),c=l(8911),o=l(2957);t.default=()=>n.createElement(u.x,null,n.createElement(o.Z,null),n.createElement(a.xu,{p:8},n.createElement(c.x,{fontSize:"xl"},"Welcome to WPMUDEV Second Level Support")));const r=()=>n.createElement("title",null,"Home Page")}}]);
+//# sourceMappingURL=component---src-pages-index-js-5dabf31584e02f51238e.js.map
